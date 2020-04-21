@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_241" class="java.beans.XMLDecoder">
+ <object class="javax.swing.DefaultListModel">
+  <void property="size">
+   <int>45</int>
+  </void>
+ </object>
+</java>
